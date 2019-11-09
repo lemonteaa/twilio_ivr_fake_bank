@@ -1,0 +1,19 @@
+{
+  "name": "fake_bank",
+  "version": "1.0.0",
+  "description": "Just a silly demo",
+  "main": "dev.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lemontea",
+  "license": "ISC",
+  "dependencies": {
+    "airtable": "^0.7.1",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "moment-timezone": "^0.5.26",
+    "morgan": "^1.9.1",
+    "twilio": "^3.34.0"
+  }
+}
